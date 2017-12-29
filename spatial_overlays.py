@@ -1,13 +1,9 @@
 
 # This piece of coding is from ozak@github.com 
 
-# In[2]:
-
 
 from __future__ import print_function, division
 import geopandas as gpd
-# In[3]:
-
 
 def spatial_overlays(df1, df2, how='intersection', reproject=True):
     """Perform spatial overlay between two polygons.
