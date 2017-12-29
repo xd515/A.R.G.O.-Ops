@@ -1,5 +1,5 @@
 
-# The coding is from ozak@github.com 
+# This piece of coding is from ozak@github.com 
 
 # In[2]:
 
